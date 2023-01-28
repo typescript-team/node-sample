@@ -1,0 +1,1 @@
+console.log("TypeScript Sample Code");
