@@ -1,1 +1,1 @@
-console.log("TypeScript Sample Code");
+console.log("");
