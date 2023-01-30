@@ -10,6 +10,8 @@
 		"skipLibCheck": true,
 		// javascript와 typescript 공존 가능
 		"allowJs": true,
+		// d.ts 파일을 생성시킵니다.
+		// "declaration": true,
 		"rootDir": "./src",
 		"outDir": "./dist",
 		"moduleResolution": "node",
